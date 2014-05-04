@@ -49,7 +49,7 @@ game999 := (teamName):TeamA anyword* (score):Score anyword* preps anyword* (team
 
 
 // Team Data
-teamName := "Toluca" | "America" | "Chivas" | "Monterrey" | "Pachuca" | "Tuzos" | "Barcelona" | "Villarreal" | "Sassuolo" | "Welshman" | "United" "States" | "Mexico" | "Athletic" "Bilbao" | "Rayo" "Vallecano" | uefaTeams | engTeams | uefaTeamNicknames | engTeamNicknames | espTeams | espTeamsShort | itaTeams | itaTeamsShort | gerTeams | gerTeamsShort | fraTeams | fraTeamsShort;
+teamName := "Toluca" | "America" | "Chivas" | "Monterrey" | "Pachuca" | "Tuzos" | "Barcelona" | "Villarreal" | "Sassuolo" | "Welshman" | "United" "States" | "Mexico" | "Athletic" "Bilbao" | "Rayo" "Vallecano" | uefaTeams | engTeams | uefaTeamNicknames | engTeamNicknames | espTeams | espTeamsShort | itaTeams | itaTeamsShort | gerTeams | gerTeamsShort | fraTeams ;
 
 uefaTeams := "Barcelona" | "Real" "Madrid" | "Real" "Sociedad" | "AC" "Milan" | "Juventus" | "Napoli" | "Borussia" "Dortmund" | "Bayer" "Leverkusen" | "Bayern" "Munich" | "Bayern" | "Schalke" "04" | "Ajax" "Amsterdam" | "Paris" "Saint-Germain" | "Marseille" | "Celtic" | "Arsenal" | "Manchester" "United" | "Chelsea" | "Manchester" "City" | "Galatasaray" | "Olympiakos" | "FC" "Porto" | "Anderlecht" | "Steaua" "Bucuresti" | "Shakhtar" "Donetsk" | "FC" "Copenhagen" | "FC" "Basel" | "Atletico" "Madrid" | "Austria" "Vienna" | "Benfica" | "CSKA" "Moscow" | "Zenit" "St" "Petersburg" | "Viktoria" "Plzen";
 
@@ -73,7 +73,7 @@ gerTeamsShort := "Dortmund" | "Frankfurt" | "Freiburg" | "Bayern" | "Schalke" | 
 
 fraTeams := "Bordeaux" | "Paris" "Saint-Germain" | "Nantes" | "Lille" | "Lyon" | "Stade" "Rennes" | "Guingamp" | "Bastia" | "AS" "Monaco" | "Marseille" | "St" "Etienne" | "Toulouse" | "Sochaux" | "Lorient" | "Montpellier" | "Nice" | "AC" "Ajaccio" | "Stade" "de" "Reims" | "Valenciennes" | "Evian" "Thonon" "Gaillard";
 
-fraTeamsShort :=;
+//fraTeamsShort :=;
 
 arenas := engTeamArena | uefaTeamArena ;
 
