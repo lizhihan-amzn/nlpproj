@@ -2,4 +2,4 @@ cWin isa cEvent
 cWin words win, defeat, beat, stun, dent, victory, rout
 
 cLose isa cEvent
-cLose words suffer, lose, fail, defeat
+cLose words suffer, lose, fail, loss
