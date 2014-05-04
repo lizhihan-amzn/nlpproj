@@ -70,7 +70,7 @@ engTeamNicknames := "Tigers" | "Swans" | "Potters" | "Bluebirds" | "Gunners" | "
 
 espTeams := "Barcelona" | "Celta" "Vigo" | "Real" "Madrid" | "Espanyol" | "Real" "Sociedad" | "Athletic" "Bilbao" | "Valencia" | "Real" "Valladolid" | "Osasuna" | "Malaga" | "Rayo" "Vallecano" | "Villarreal" | "Sevilla" "FC" | "Real" "Betis" | "Atletico" "Madrid" | "Levante" | "Getafe" | "Granada" | "Elche" | "Almeria";
 
-espTeamsShort := "Real" | "Atletico" | "Sevilla";
+espTeamsShort := "Real" | "Atletico" | "Sevilla"  | "Celta";
 
 itaTeams := "AC" "Milan" | "AS" "Roma" | "Atalanta" | "Bologna" | "Fiorentina" | "Internazionale" | "Juventus" | "Lazio" | "Napoli" | "Parma" | "Udinese" | "Hellas" "Verona" | "Chievo" "Verona" | "Torino" | "Sampdoria" | "Cagliari" | "Livorno" | "Catania" | "Genoa" | "Sassuolo";
 
