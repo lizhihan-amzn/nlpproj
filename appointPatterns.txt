@@ -1,0 +1,54 @@
+//
+//  Patterns for appointment events
+//
+
+pattern set appoint;
+
+appoint		:= appoint-act | appoint-pass | appoint-nom | appoint-append;
+
+// pattern for active verb phrase:  appointed <person> as <position>
+
+appoint-act	:= [constit cat=vgroup pa=[head?isa(cAppoint)]]
+		   [constit cat=ngroup]:Person age?
+		   ("as" | "to" [constit cat=ngroup pa=[head=position]] "of" |
+		    "to" "become")?  
+                (position):Position;
+
+appoint-append := (appoint-act | appoint-nom) ("," | "and")  [constit cat=ngroup]:Person age?
+           ("as" | "to" [constit cat=ngroup pa=[head=position]] "of" |
+            "to" "become")  
+                (position):Position;
+
+position := [constit cat=ngroup] ("," [constit cat=ngroup])* ("and" [constit cat=ngroup])*;
+
+// pattern for passive clause:  <person> was appointed as <position>
+
+appoint-pass	:= [constit cat=ngroup]:Person age?
+		   ([constit cat=vgroup-pass pa=[head?isa(cAppoint)]] | [constit cat=vgroup-pass-p pa=[head?isa(cAppoint)]])
+		   ("as" | "to" [constit cat=ngroup pa=[head=position]] "of"  |
+		    "to" "become")?
+                   (position):Position;
+
+// pattern for nominalization:  appointment of <person> as <position>
+
+appoint-nom	:= [constit cat=ngroup pa=[head?isa(cAppointment)]] "of"
+		   [constit cat=ngroup]:Person age?
+		   //  overgeneralize:  it's "appointment as" / "promotion to"
+		   ("as" | "to" [constit cat=ngroup pa=[head=position]] "of"  |
+		    "to" "become" | "to") 
+                   (position):Position;
+
+
+// allow , age , after a person's name
+
+age 		:= ","  [integer] ",";
+
+// any description
+
+description := "," anyword+ ",";
+
+anyword := [constit cat=ngroup]+ [constit cat=vgroup]*;
+
+// write out person and position to standard output
+
+when appoint    write "Appointed " + Person + " as " + Position;
