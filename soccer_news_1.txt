@@ -6,7 +6,7 @@ Arsenal closed in on another shot at Champions League qualification with a 3-0 w
 </DOC>
 
 <DOC>
-?? Chelsea 2-0 Liverpool
+Chelsea 2-0 Liverpool
 <TEXT>
 FC's Stewart Robson and Shaka Hislop discuss Chelsea's tactics in their 2-0 win over Liverpool.
 </TEXT>
@@ -33,17 +33,8 @@ Chivas failed to qualify for the Mexican playoffs after losing 1-0 to Monterrey 
 </TEXT>
 </DOC>
 
-
-
 <DOC>
-Chelsea 2-0 Liverpool #Just slow
-<TEXT>
-Twenty-four hours on from Chelsea’s headline-grabbing 2-0 defeat of Liverpool at Anfield and the vitriolic diatribes lambasting the manner in which Jose Mourinho achieved victory continue to smother every form of media to the point of boredom.
-</TEXT>
-</DOC>
-
-<DOC>
-?????? Tuzos 4-3 Pachuca
+Tuzos 4-3 Pachuca
 <TEXT>
 Pachuca kicked things off this weekend with a thriller of a match that ended 4-3 in favor of the Tuzos.
 </TEXT>
@@ -71,9 +62,9 @@ In what was effectively the last game of their season, Swansea secured safety wi
 </DOC>
 
 <DOC>
-?Slow? Bacelona 3-2 Villarreal
+Bacelona 3-2 Villarreal
 <TEXT>
-The reaction to a banana being thrown at Dani Alves during Barcelona’s 3-2 La Liga win at Villarreal.
+The reaction to a banana being thrown at Dani Alves during Barcelona's 3-2 La Liga win at Villarreal.
 </TEXT>
 </DOC>
 
@@ -99,7 +90,7 @@ Chelsea dented Liverpool's title hopes with a 2-0 win at Anfield but Jose Mourin
 </DOC>
 
 <DOC>
-Juventus 3-1 Sassuolo
+? Juventus 3-1 Sassuolo
 <TEXT>
 FC's Stewart Robson and Craig Burley give their take on Antonio Conte and Juventus after their 3-1 win against Sassuolo.
 </TEXT>
@@ -142,7 +133,7 @@ Gareth Bale declared "this is why I wanted to come to the biggest club in the wo
 </DOC>
 
 <DOC>
-Real Madrid 4-0 Bayern Munich ?? SLOW?
+Real Madrid 4-0 Bayern Munich
 <TEXT>
 Reaction from Real Madrid's 4-0 win at Bayern Munich, which secured Carlo Ancelotti's side a place in the Champions League final, 5-0 on aggregate.1.
 </TEXT>
@@ -171,7 +162,7 @@ West Brom has been mired in relegation trouble throughout the campaign, but a 1-
 </DOC>
 
 <DOC>
-? Manchester United 4-0 Norwich City
+Manchester United 4-0 Norwich City
 <TEXT>
 The Welshman is looking for back-to-back victories following last weekend's 4-0 rout of lowly Norwich City
 </TEXT>
@@ -193,9 +184,9 @@ However, Arsenal, now four points clear of Everton, has met West Brom on two occ
 </DOC>
 
 <DOC>
-Sunderland 2-1 Chelsea
+? Sunderland 2-1 Chelsea
 <TEXT>
-Chelsea's assistant coach Rui Faria has been handed a six-match stadium ban for his conduct on the touchline during the club's 2-1 defeat to Sunderland on April 19.
+Chelsea has been handed a six-match stadium ban for his conduct on the touchline during the club's 2-1 defeat to Sunderland on April 19.
 </TEXT>
 </DOC>
 
@@ -214,9 +205,9 @@ The most incredible dream could yet come true for Atletico Madrid after Wednesda
 </DOC>
 
 <DOC>
-Atletico Madrid 3-1 Chelsea
+Atletico Madrid 3-1 Blues(Chelsea)
 <TEXT>
-A deal worth 75 million pounds, including transfer fee and salary, was finalized at a meeting in London less than 24 hours after Costa's penalty inspired Atletico Madrid's 3-1 win over the Blues on Wednesday.
+A deal worth 75 million pounds, including transfer fee and salary, was finalized at a meeting in London less than 24 hours after Costa's penalty inspired Atletico Madrid's 3-1 win over Blues on Wednesday.
 </TEXT>
 </DOC>
 
@@ -239,6 +230,13 @@ Costa's Atletico progressed to the European final with a 3-1 second leg and aggr
 Athletic Bilbao 3-0 Rayo Vallecano
 <TEXT>
 Athletic Bilbao sealed its place in next season's Champions League with a comfortable 3-0 win at Rayo Vallecano on Friday.
+</TEXT>
+</DOC>
+
+<DOC>
+Chelsea 2-0 Liverpool #Just slow
+<TEXT>
+Twenty-four hours on from Chelsea’s headline-grabbing 2-0 defeat of Liverpool at Anfield and the vitriolic diatribes lambasting the manner in which Jose Mourinho achieved victory continue to smother every form of media to the point of boredom.
 </TEXT>
 </DOC>
 

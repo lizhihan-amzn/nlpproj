@@ -9,7 +9,7 @@ game := game1 | game7 | game2 | game3 | game4 | game5 | game6 | game9;
 //game := game2 | game5 | game9 | game4 | game6;
 
 //1. A beat B ... X-X.
-game1 := (teamName):TeamA [constit cat=vgroup pa=[head?isa(cWin)]] (teamName):TeamB anyword* (score):Score;
+game1 := (teamName):TeamA anyword* [constit cat=vgroup pa=[head?isa(cWin)]] anyword* (teamName):TeamB anyword* (score):Score;
 
 //7. A ... suffered a defeat of B
 game7 := (teamName):TeamB anyword* [constit cat=vgroup pa=[head?isa(cLose)]] anyword* (score):Score anyword* [constit cat=ngroup pa=[head?isa(cWin)]] anyword* preps anyword* (teamName):TeamA;

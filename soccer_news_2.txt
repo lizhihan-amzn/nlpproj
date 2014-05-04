@@ -1,19 +1,19 @@
 <DOC>
 Barcelona 3-2 Villarreal
 <TEXT>
-Barcelona showed it still means business in the title race last week when it came from two goals down to edge Villarreal 3-2 in dramatic fashion.
+Barcelona showed it still means business in the title race last week when it edged Villarreal 3-2 in dramatic fashion.
 </TEXT>
 </DOC>
 
 <DOC>
-Atletico 3-1 Chelsea
+[N] Atletico 3-1 Chelsea
 <TEXT>
 Diego Simeone's men qualified for just their second final in Europe's elite club competition with a 3-1 semifinal win over Chelsea on Wednesday, setting up a meeting with city rival Real Madrid in Lisbon on May 24.
 </TEXT>
 </DOC>
 
 <DOC>
-Real Madrid 4-0 Almeria
+[A] Real Madrid 4-0 Almeria
 <TEXT>
 Real Madrid took advantage of Barcelona's slip-up to storm back into the La Liga title race with a 4-0 win over Almeria.
 </TEXT>
@@ -22,7 +22,7 @@ Real Madrid took advantage of Barcelona's slip-up to storm back into the La Liga
 <DOC>
 Barcelona 4-1 Almeria
 <TEXT>
-Sergio Busquets says Barcelona must improve if it wants to catch Real Madrid in La Liga's title race, on the back of beating Almeria 4-1 at Camp Nou on Sunday.
+Sergio Busquets says Barcelona must improve if it wants to catch Real Madrid in La Liga's title race, after it beat Almeria 4-1 at Camp Nou on Sunday.
 </TEXT>
 </DOC>
 
@@ -36,14 +36,14 @@ Reports in the English media have suggested that the Premier League club is clos
 <DOC>
 Juve 3-1 Sassuolo
 <TEXT>
-"I think the coach of Argentina's national team must not have satellite television hooked up to watch Juventus," Tevez, who was at the heart of Juve's 3-1 win over Sassuolo on Monday, told reporters. "I do not think I have any hope of going to the World Cup now. I am a direct striker, maybe that plays against me and that means Sabella does not have a good impression of me."
+"I think the coach of Argentina's national team must not have satellite television hooked up to watch Juventus," Tevez, who was at the heart of Juventus's 3-1 win over Sassuolo on Monday, told reporters. 
 </TEXT>
 </DOC>
 
 <DOC>
 Juventus 3-1 Sassuolo
 <TEXT>
-Juventus striker Fernando Llorente has hailed his side's fighting spirit after the club came from behind to beat Sassuolo 3-1 on Monday.
+Juventus striker Fernando Llorente has hailed his side's fighting spirit after the club beat Sassuolo 3-1 on Monday.
 </TEXT>
 </DOC>
 
@@ -69,14 +69,14 @@ Giacomo Bonaventura struck a late winner as Atalanta recorded a dramatic 2-1 win
 </DOC>
 
 <DOC>
-Roma 3-1 Atalanta
+[A] Roma 3-1 Atalanta
 <TEXT>
 Francesco Totti returned to inspire Roma to a 3-1 win over Atalanta that leaves the capital club in the Serie A title race.
 </TEXT>
 </DOC>
 
 <DOC>
-AC Milan 3-0 Chievo
+[A] AC Milan 3-0 Chievo
 <TEXT>
 Kaka starred in his 300th game in an AC Milan shirt by scoring a double as the club's bagged their second win in a row with a 3-0 result at home to Chievo.
 </TEXT>
@@ -85,19 +85,19 @@ Kaka starred in his 300th game in an AC Milan shirt by scoring a double as the c
 <DOC>
 Roma 2-0 Chievo
 <TEXT>
-First half goals from Gervinho and Mattia Destro saw Roma tighten their grip on second place in Serie A with a 2-0 win over Chievo on Saturday.
+Roma got their grip on second place in Serie A with a 2-0 win over Chievo on Saturday.
 </TEXT>
 </DOC>
 
 <DOC>
 Juventus 3-1 Chievo
 <TEXT>
-Juventus returned to winning ways by defeating Chievo 3-1 in Antonio Conte's 100th match at the helm to move 12 points clear of Roma at the top of Serie A.
+Juventus returned to winning ways after it beat Chievo 3-1 in Antonio Conte's 100th match at the helm to move 12 points clear of Roma at the top of Serie A.
 </TEXT>
 </DOC>
 
 <DOC>
-Napoli 1-1 Udinese
+[A] Napoli 1-1 Udinese
 <TEXT>
 Napoli were forced to settle for a point as they surrendered a first half lead to draw 1-1 Udinese on Saturday afternoon.
 </TEXT>
@@ -113,7 +113,7 @@ Fiorentina recorded a 1-0 win over Napoli in Sunday evening's Serie A encounter 
 <DOC>
 AC Milan 2-0 Fiorentina
 <TEXT>
-Clarence Seedorf saw AC Milan win for the first time in six attempts with a comfortable 2-0 success at Fiorentina.
+Clarence Seedorf saw AC Milan had a win for the first time in six attempts with a comfortable 2-0 success at Fiorentina.
 </TEXT>
 </DOC>
 
@@ -153,7 +153,7 @@ Napoli has recorded a 4-2 win over Lazio in Sunday afternoon's Serie A encounter
 </DOC>
 
 <DOC>
-Sevilla 3-3 Valencia
+[N] Sevilla 3-3 Valencia
 <TEXT>
 Sevilla scored in the fourth minute of stoppage-time to negate Valencia's comeback and reach the Europa League final in the most dramatic fashion Thursday with a 3-3 away goal victory on aggregate.
 </TEXT>
@@ -169,7 +169,7 @@ Athletic Bilbao are on the brink of qualifying for the Champions League playoffs
 <DOC>
 Real Madrid 4-0 Real Sociedad
 <TEXT>
-Real Madrid overcame a poor first-half showing to eventually run out 4-0 winners at Real Sociedad and keep pace at the top of La Liga.
+Real Madrid overcame a poor first-half showing to eventually run out 4-0 win at Real Sociedad and keep pace at the top of La Liga.
 </TEXT>
 </DOC>
 
