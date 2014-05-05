@@ -1,50 +1,142 @@
 Soccernews.com/sportsillustrated.cnn.com
 
-1. [F] Chelsea did, however, secure the third automatic Champions League qualification spot, with fourth place going to Arsenal, which beat West Bromwich Albion 1-0 through Olivier Giroud's goal on Sunday.
+<DOC>
+[W] Chelsea 1-0 West Bromwich Albion [F] 
+<TEXT>
+Chelsea did, however, secure the third automatic Champions League qualification spot, with fourth place going to Arsenal, which beat West Bromwich Albion 1-0 through Olivier Giroud's goal on Sunday.
+</TEXT>
+</DOC>
 
+<DOC>
+[C] Norwich City 0-0 Chelsea
+<TEXT>
+Norwich City manager Neil Adams took pride in how his relegation-threatened players performed in the 0-0 Premier League draw at Chelsea.
+</TEXT>
+</DOC>
 
-2. Norwich City manager Neil Adams took pride in how his relegation-threatened players performed in the 0-0 Premier League draw at Chelsea.
+<DOC>
+[W] Newcastle 3-0 Cardiff City
+<TEXT>
+Cardiff City was relegated from the Premier League yesterday after suffering a 3-0 defeat at out-of-form Newcastle.
+</TEXT>
+</DOC>
 
+<DOC>
+[M] Chelsea 0-0 Norwich City [F] 
+<TEXT>
+Chelsea boss Jose Mourinho believes his players felt the effects of their UEFA Champions League exit in Sunday’s 0-0 draw with Norwich City.
+</TEXT>
+</DOC>
 
-3. Cardiff City was relegated from the Premier League yesterday after suffering a 3-0 defeat at out-of-form Newcastle.
+<DOC>
+[C] Real Madrid 2-2 Valencia
+<TEXT>
+Real Madrid failed to capitalise on slips by their rivals as Valencia applied further drama to La Liga’s title race with a 2-2 Bernabeu draw.
+</TEXT>
+</DOC>
 
-4. [F] Chelsea boss Jose Mourinho believes his players felt the effects of their UEFA Champions League exit in Sunday’s 0-0 draw with Norwich City.
+<DOC>
+[C] Levante 2-0 Atletico Madrid
+<TEXT>
+Diego Simeone hopes Atletico Madrid’s 2-0 defeat to Levante on Sunday will work as a catalyst in the closing weeks of the season.
+</TEXT>
+</DOC>
 
-5. Real Madrid failed to capitalise on slips by their rivals as Valencia applied further drama to La Liga’s title race with a 2-2 Bernabeu draw.
+<DOC>
+[W] Levante 2-0 Atletico Madrid [F] 
+<TEXT>
+Following Barcelona’s draw with Getafe on Saturday and a 2-0 defeat for leaders Atletico Madrid at Levante earlier on Sunday, Carlo Ancelotti’s team looked in pole position for the title.  
+</TEXT>
+</DOC>
 
-6. Diego Simeone hopes Atletico Madrid’s 2-0 defeat to Levante on Sunday will work as a catalyst in the closing weeks of the season.
+<DOC>
+[C] Levante 2-0 Atletico Madrid
+<TEXT>
+Just hours earlier, La Liga leaders Atletico Madrid had suffered a 2-0 loss at Levante.  
+</TEXT>
+</DOC>
 
-7. [F] Following Barcelona’s draw with Getafe on Saturday and a 2-0 defeat for leaders Atletico Madrid at Levante earlier on Sunday, Carlo Ancelotti’s team looked in pole position for the title.  
+<DOC>
+[C] Bacelona 2-2 Getafe
+<TEXT>
+Following Barcelona’s surprise 2-2 draw against Getafe on Saturday, the capital clubs had the chance to all but end the defending champions’ ambitions.
+</TEXT>
+</DOC>
 
-8. [A] Just hours earlier, La Liga leaders Atletico Madrid had suffered a 2-0 loss at Levante.  
+<DOC>
+[C] Levante 2-0 Atletico Madrid
+<TEXT>
+Atletico Madrid’s La Liga title hopes suffered a huge blow on Sunday as they slipped to a shock 2-0 defeat to Levante.  
+</TEXT>
+</DOC>
 
-9. Following Barcelona’s surprise 2-2 draw against Getafe on Saturday, the capital clubs had the chance to all but end the defending champions’ ambitions.
+<DOC>
+[M] Milan 1-0 Inter [F] 
+<TEXT>
+Inter coach Walter Mazzarri conceded that the occasion got to his players after their 1-0 derby defeat to Milan on Sunday.
+</TEXT>
+</DOC>
 
-10. [A] Atletico Madrid’s La Liga title hopes suffered a huge blow on Sunday as they slipped to a shock 2-0 defeat to Levante.  
+<DOC>
+[C] Catania 4-1 Roma
+<TEXT>
+Juventus’ third successive Serie A triumph was completed as bottom-of-the-table Catania crushed Roma 4-1 on Sunday.
+</TEXT>
+</DOC>
 
-11. [F] Inter coach Walter Mazzarri conceded that the occasion got to his players after their 1-0 derby defeat to Milan on Sunday.
+<DOC>
+[C] Parma 2-0 Sampdoria
+<TEXT>
+Parma also kept their Europa League hopes alive with a 2-0 success against Sampdoria.
+</TEXT>
+</DOC>
 
+<DOC>
+[W] Catania 4-1 Roma
+<TEXT>
+Giorgio Chiellini hailed his Juventus team-mates after Roma’s 4-1 defeat at Catania handed the Turin giants a third successive Scudetto.  
+</TEXT>
+</DOC>
 
-12. Juventus’ third successive Serie A triumph was completed as bottom-of-the-table Catania crushed Roma 4-1 on Sunday.
+<DOC>
+[C] Milan 1-0 Inter
+<TEXT>
+Match-winner Nigel de Jong dedicated Milan’s 1-0 derby victory over Inter on Sunday to coach Clarence Seedorf.
+</TEXT>
+</DOC>
 
+<DOC>
+[C] Catania 4-1 Roma [F]
+<TEXT>
+Juventus have been confirmed as champions of Serie A after Catania claimed a stunning 4-1 win against Roma on Sunday.
+</TEXT>
+</DOC>
 
-13. Parma also kept their Europa League hopes alive with a 2-0 success against Sampdoria.
+<DOC>
+[C] Levante 2-0 Atletico
+<TEXT>
+Atletico lost 2-0 at Levante on Sunday afternoon and Madrid could only salvage a point at home to Valencia later on.
+</TEXT>
+</DOC>
 
-14. Giorgio Chiellini hailed his Juventus team-mates after Roma’s 4-1 defeat at Catania handed the Turin giants a third successive Scudetto.  
+<DOC>
+[M] Chelsea 0-0 Norwich [F]
+<TEXT>
+After its 0-0 draw at home to Norwich on Sunday, Chelsea can still win the Premier League.
+</TEXT>
+</DOC>
 
-15. Match-winner Nigel de Jong dedicated Milan’s 1-0 derby victory over Inter on Sunday to coach Clarence Seedorf.
+<DOC>
+[W] Arsenal 1-0 West Bromwich Albion [F]
+<TEXT>
+Olivier Giroud scored in the first half to give Arsenal a 1-0 win over West Bromwich Albion in the Premier League on Sunday, although the Baggies still finished the day virtually assured of staying in the top flight. 
+</TEXT>
+</DOC>
 
-16. [F] Juventus have been confirmed as champions of Serie A after Catania claimed a stunning 4-1 win against Roma on Sunday.
-
-17. Atletico lost 2-0 at Levante on Sunday afternoon and Madrid could only salvage a point at home to Valencia later on.
-
-18. [F] After its 0-0 draw at home to Norwich on Sunday, Chelsea can still win the Premier League.
-
-19. [F] Olivier Giroud scored in the first half to give Arsenal a 1-0 win over West Bromwich Albion in the Premier League on Sunday, although the Baggies still finished the day virtually assured of staying in the top flight. 
-
-20. [F] Edin Dzeko's brace helped Manchester City come from behind to beat Everton 3-2 and stay in control of the English Premier League title race on Saturday.
-
-
-
-
+<DOC>
+[M] Manchester City 3-2 Everton [F]
+<TEXT>
+Edin Dzeko's brace helped Manchester City come from behind to beat Everton 3-2 and stay in control of the English Premier League title race on Saturday.
+</TEXT>
+</DOC>
 
