@@ -25,7 +25,7 @@ game7 := (teamName):TeamB anyword* [constit cat=vgroup pa=[head?isa(cSuffer)]] a
 game5 := (teamName):TeamA pos anyword* (score):Score anyword* ([constit cat=ngroup pa=[head?isa(cWin)]] | [constit cat=vgroup pa=[head?isa(cWin)]]) anyword* winPreps anyword* (teamName):TeamB;
 
 //4. A ... lose X-X to B
-game4 := (teamName):TeamB anyword* (("losing" | "lose" | "loss" | "lost" | "defeat") (score):Score | ((score):Score ("losing" | "lose" | "loss" | "lost"| "defeat"))) anyword* losePreps anyword* (teamName):TeamA;
+game4 := (teamName):TeamB anyword* (("losing" | "lose" | "loss" | "lost" | "defeat") (score):Score | ((score):Score ("losing" | "lose" | "loss" | "lost"| "defeat"))) anyword* preps anyword* (teamName):TeamA;
 
 
 //6. A ...ended X-X in favor of B
@@ -46,11 +46,11 @@ teamName := "Toluca" | "America" | "Chivas" | "Monterrey" | "Pachuca" | "Tuzos" 
 
 uefaTeams := "Barcelona" | "Real" "Madrid" | "Real" "Sociedad" | "AC" "Milan" | "Juventus" | "Napoli" | "Borussia" "Dortmund" | "Bayer" "Leverkusen" | "Bayern" "Munich" | "Bayern" | "Schalke" "04" | "Ajax" "Amsterdam" | "Paris" "Saint" "Germain" | "Marseille" | "Celtic" | "Arsenal" | "Manchester" "United" | "Chelsea" | "Manchester" "City" | "Galatasaray" | "Olympiakos" | "FC" "Porto" | "Anderlecht" | "Steaua" "Bucuresti" | "Shakhtar" "Donetsk" | "FC" "Copenhagen" | "FC" "Basel" | "Atletico" "Madrid" | "Austria" "Vienna" | "Benfica" | "CSKA" "Moscow" | "Zenit" "St" "Petersburg" | "Viktoria" "Plzen";
 
-uefaTeamNicknames := "Barcelona" | "Real" "Madrid" | "Real" "Sociedad" | "AC" "Milan" | "Juventus" | "Napoli" | "Borussia" "Dortmund" | "Bayer" "Leverkusen" | "Bayern" "Munich" | "Schalke" "04" | "Ajax" "Amsterdam" | "Paris" "Saint" "Germain" "" | "Marseille" | "Celtic" | "Gunners" | "Red" "Devils" | "Blues" | "City" | "Galatasaray" | "Olympiakos" | "FC" "Porto" | "Anderlecht" | "Steaua" "Bucuresti" | "Shakhtar" "Donetsk" | "FC" "Copenhagen" | "FC" "Basel" | "Atletico" "Madrid" | "Atletico" | "Austria" "Vienna" | "Benfica" | "CSKA" "Moscow" | "Zenit" "St" "Petersburg" | "Viktoria" "Plzen";
+uefaTeamNicknames := "Barcelona" | "Real" "Madrid" | "Real" "Sociedad" | "AC" "Milan" | "Juventus" | "Napoli" | "Borussia" "Dortmund" | "Bayer" "Leverkusen" | "Bayern" "Munich" | "Schalke" "04" | "Ajax" "Amsterdam" | "Paris" "Saint" "Germain" "" | "Marseille" | "Celtic" | "Gunners" | "Red" "Devils" | "Blues" | "Galatasaray" | "Olympiakos" | "FC" "Porto" | "Anderlecht" | "Steaua" "Bucuresti" | "Shakhtar" "Donetsk" | "FC" "Copenhagen" | "FC" "Basel" | "Atletico" "Madrid" | "Atletico" | "Austria" "Vienna" | "Benfica" | "CSKA" "Moscow" | "Zenit" "St" "Petersburg" | "Viktoria" "Plzen";
 
 engTeams := "Hull" "City" | "Swansea" "City" | "Swansea" | "Stoke" "City" | "Cardiff" "City" | "Arsenal" | "Manchester" "United" | "Newcastle" "United" | "Newcastle" | "Aston" "Villa" | "Chelsea" | "Liverpool" | "Sunderland" | "Tottenham" "Hotspur" | "Everton" | "Fulham" | "West" "Ham" "United" | "Southampton" | "Norwich" "City" | "Norwich" | "Manchester" "City" | "West" "Bromwich" "Albion" | "West" "Brom" | "Crystal" "Palace";
 
-engTeamNicknames := "Tigers" | "Swans" | "Potters" | "Bluebirds" | "Gunners" | "Red Devils" | "Magpies/Toon" | "Villans" | "Blues" | "Reds" | "Black" "Cats" | "Wearsiders" | "Spurs" | "Toffees" | "Cottagers" | "Hammers" | "Iron" | "Saints" | "Canaries" | "City" | "Baggies" | "Eagles";
+engTeamNicknames := "Tigers" | "Swans" | "Potters" | "Bluebirds" | "Gunners" | "Red Devils" | "Magpies/Toon" | "Villans" | "Blues" | "Reds" | "Black" "Cats" | "Wearsiders" | "Spurs" | "Toffees" | "Cottagers" | "Hammers" | "Iron" | "Saints" | "Canaries" | "Baggies" | "Eagles";
 
 espTeams := "Barcelona" | "Celta" "Vigo" | "Real" "Madrid" | "Espanyol" | "Real" "Sociedad" | "Athletic" "Bilbao" | "Valencia" | "Real" "Valladolid" | "Osasuna" | "Malaga" | "Rayo" "Vallecano" | "Villarreal" | "Sevilla" "FC" | "Real" "Betis" | "Atletico" "Madrid" | "Levante" | "Getafe" | "Granada" | "Elche" | "Almeria";
 

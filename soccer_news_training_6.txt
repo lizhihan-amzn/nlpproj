@@ -1,68 +1,68 @@
 <DOC>
-Roma 3-1 Atalanta
+[C] Roma 3-1 Atalanta
 <TEXT>
 Francesco Totti returned to inspire Roma to a 3-1 win over Atalanta that leaves the capital club in the Serie A title race.
 </TEXT>
 </DOC>
 
 <DOC>
-AC Milan 3-0 Chievo
+[M] AC Milan 3-0 Chievo
 <TEXT>
 Kaka starred in his 300th game in an AC Milan shirt by scoring a double as the club's bagged their second win in a row with a 3-0 result at home to Chievo.
 </TEXT>
 </DOC>
 
 <DOC>
-Roma 2-0 Chievo
+[C] Roma 2-0 Chievo
 <TEXT>
 First half goals from Gervinho and Mattia Destro saw Roma tighten their grip on second place in Serie A with a 2-0 win over Chievo on Saturday.
 </TEXT>
 </DOC>
 
 <DOC>
-Juventus 3-1 Chievo
+[M] Juventus 3-1 Chievo
 <TEXT>
 Juventus returned to winning ways by defeating Chievo 3-1 in Antonio Conte's 100th match at the helm to move 12 points clear of Roma at the top of Serie A.
 </TEXT>
 </DOC>
 
 <DOC>
-Napoli 1-1 Udinese
+[M] Napoli 1-1 Udinese
 <TEXT>
 Napoli were forced to settle for a point as they surrendered a first half lead to draw 1-1 Udinese on Saturday afternoon.
 </TEXT>
 </DOC>
 
 <DOC>
-Fiorentina 1-0 Napoli
+[C] Fiorentina 1-0 Napoli
 <TEXT>
 Fiorentina recorded a 1-0 win over Napoli in Sunday evening's Serie A encounter at the Stadio San Paolo to all but end the Partenopei's lingering hopes of the title.
 </TEXT>
 </DOC>
 
 <DOC>
-AC Milan 2-0 Fiorentina
+[C] AC Milan 2-0 Fiorentina
 <TEXT>
 Clarence Seedorf saw AC Milan win for the first time in six attempts with a comfortable 2-0 success at Fiorentina.
 </TEXT>
 </DOC>
 
 <DOC>
-Roma 1-0 Fiorentina
+[W] Roma 1-0 Fiorentina
 <TEXT>
 Radja Nainggolan scored the only goal of the game as Roma maintained their game pursuit of Serie A leaders Juventus with a 1-0 win at Fiorentina.
 </TEXT>
 </DOC>
 
 <DOC>
-Napoli 1-0 Torino
+[C] Napoli 1-0 Torino
 <TEXT>
 Gonzalo Higuain scored a dramatic late winner as Napoli drew level on points with Roma in Serie A's battle for second place with a 1-0 victory at Torino on Monday evening.
 </TEXT>
 </DOC>
 
 <DOC>
-Inter 1-0 Torino
+[C] Inter 1-0 Torino
 <TEXT>
 Rodrigo Palacio's 30th minute goal saw Inter beat Torino 1-0 and cut the gap on fourth-place Fiorentina to just one point.
 </TEXT>

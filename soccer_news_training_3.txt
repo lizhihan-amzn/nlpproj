@@ -1,13 +1,7 @@
 
-<DOC>
-? Sevilla 2-1 Valencia #(NOT a single match) 
-<TEXT>
-Sofiane Feghouli puts Valencia up on the day, but they still trail Sevilla 1-2 on aggregate.
-</TEXT>
-</DOC>
 
 <DOC>
-Real Madrid 4-0 Bayern Munich
+[C] Real Madrid 4-0 Bayern Munich
 <TEXT>
 FC's Martin Ainstein analyses Real Madrid's strong tactical performance in their 4-0 second win against Bayern Munich.
 </TEXT>
@@ -15,14 +9,14 @@ FC's Martin Ainstein analyses Real Madrid's strong tactical performance in their
 
 
 <DOC>
-West Brom 1-0 West Ham
+[M] West Brom 1-0 West Ham
 <TEXT>
 West Brom has been mired in relegation trouble throughout the campaign, but a 1-0 victory over West Ham last weekend left Mel's charges four points clear of the drop zone and they have the added bonus of a game in hand", 
 </TEXT>
 </DOC>
 
 <DOC>
-Manchester United 4-0 Norwich City
+[C] Manchester United 4-0 Norwich City
 <TEXT>
 The Welshman is looking for back-to-back victories following last weekend's 4-0 rout of lowly Norwich City
 </TEXT>
@@ -30,42 +24,42 @@ The Welshman is looking for back-to-back victories following last weekend's 4-0 
 
 
 <DOC>
-Everton 3-0 Arsenal
+[C] Everton 3-0 Arsenal
 <TEXT>
 Arsenal in the Champions League looked set to come an end when it suffered a 3-0 defeat at the hands of Everton, its main challenger for fourth place, last month"
 </TEXT>
 </DOC>
 
 <DOC>
-? Arsenal 1-1 West Brom
+[W] ? Arsenal 1-1 West Brom
 <TEXT>
 However, Arsenal, now four points clear of Everton, has met West Brom on two occasions this season - once in the League Cup and once in the league - and has been held to 1-1 draws after 90 minutes in both matches
 </TEXT>
 </DOC>
 
 <DOC>
-? Sunderland 2-1 Chelsea
+[C] ? Sunderland 2-1 Chelsea
 <TEXT>
 Chelsea has been handed a six-match stadium ban for his conduct on the touchline during the club's 2-1 defeat to Sunderland on April 19.
 </TEXT>
 </DOC>
 
 <DOC>
-Atletico (Madrid) 3-1 Chelsea
+[C] Atletico (Madrid) 3-1 Chelsea
 <TEXT>
 Reports in the English media have suggested that the Premier League club is close to tying up a 35 million pound deal for Costa, who was among the goalscorers as Atletico beat Chelsea 3-1 in the UEFA Champions League semifinals on Wednesday.
 </TEXT>
 </DOC>
 
 <DOC>
-Atletico Madrid 3-1 Chelsea
+[C] Atletico Madrid 3-1 Chelsea
 <TEXT>
 The most incredible dream could yet come true for Atletico Madrid after Wednesday’s 3-1 victory against Chelsea secured one of the most improbable final appearances in Champions League history.
 </TEXT>
 </DOC>
 
 <DOC>
-Atletico Madrid 3-1 Blues(Chelsea)
+[C] Atletico Madrid 3-1 Blues(Chelsea)
 <TEXT>
 A deal worth 75 million pounds, including transfer fee and salary, was finalized at a meeting in London less than 24 hours after Costa's penalty inspired Atletico Madrid's 3-1 win over Blues on Wednesday.
 </TEXT>

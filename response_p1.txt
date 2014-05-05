@@ -1,0 +1,85 @@
+Correct, Miss, Wrong
+
+t1: 9, 1, 0
+
+Arsenal  3-0  Newcastle United
+Chelsea 2-0  Liverpool
+Chelsea  2-0  Liverpool
+Toluca  1-1 America
+Monterrey  1-0  Chivas
+Tuzos 4-3  Pachuca
+Arsenal  3-0  Newcastle
+Swansea  4-1  Aston Villa
+Barcelona 3-2  Villarreal
+
+t2:  7, 2, 1
+
+Southampton 2-0  Everton
+Chelsea  2-0  Liverpool
+Manchester United  4-0  Norwich
+Everton  2-0  Manchester United
+Bayern 4-0  Bayern Munich
+Real Madrid 4-0  Bayern Munich
+Real Madrid 4-0  Bayern Munich
+Real Madrid 4-0  Bayern Munich
+Real Madrid 4-0  Bayern Munich
+Real Madrid 4-0  Bayern Munich
+
+t3: 7, 1, 1
+
+Real Madrid 4-0  Bayern Munich
+Real Madrid 4-0  Bayern Munich
+Welshman  4-0  Norwich City
+Everton 3-0  Arsenal
+Arsenal 1-1  West Brom
+Everton 1-1  West Brom
+Sunderland  2-1  Chelsea
+Atletico  3-1  Chelsea
+Atletico Madrid  3-1  Chelsea
+Atletico Madrid 3-1  Blues
+Atletico Madrid 3-1  Blues
+
+t4: 3, 2, 0
+United States  2-2  Mexico
+Atletico  3-1  Blues
+Athletic Bilbao  3-0  Rayo Vallecano
+
+t5: 6, 3, 1
+Real Madrid  4-0  Almeria
+Barcelona 4-0  Almeria
+Barcelona 4-0  Almeria
+Atletico  3-1  Chelsea
+Juventus 3-1  Sassuolo
+Juventus 3-1  Sassuolo
+Juventus 3-1  Sassuolo
+Roma  2-0  AC Milan
+Inter  2-0  Parma
+Atalanta  2-1  Inter
+Atalanta  2-1  Inter
+
+t6: 6, 3, 1
+Roma  3-1  Atalanta
+Roma  2-0  Chievo
+Fiorentina  1-0  Napoli
+AC Milan  2-0  Fiorentina
+Juventus  1-0  Fiorentina
+Roma  1-0  Fiorentina
+Roma  1-0  Torino
+Napoli  1-0  Torino
+Inter  1-0  Torino
+
+test1: 
+Chelsea  1-0  West Bromwich Albion
+Arsenal 1-0  West Bromwich Albion
+Norwich City  0-0  Chelsea
+City  0-0  Chelsea
+Cardiff City  3-0  Newcastle
+City  3-0  Newcastle
+Real Madrid  2-2  Valencia
+Levante 2-0 Atletico Madrid
+Catania  4-1  Roma
+Parma  2-0  Sampdoria
+Juventus  4-1  Roma
+Catania  4-1  Roma
+Valencia  2-0  Atletico
+Arsenal  1-0  Baggies
