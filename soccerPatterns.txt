@@ -20,11 +20,6 @@ game9 := [constit cat=ngroup] ([constit cat=vgroup] | [constit cat=vgroup-pass])
 
 
 //7. A ... suffered a defeat of B
-//game7 := (teamName):TeamB anyword* [constit cat=vgroup pa=[head?isa(cLose)]] anyword* (
-//score):Score anyword* [constit cat=ngroup pa=[head?isa(cWin)]] anyword* preps anyword* (
-//teamName):TeamA;
-
-//7. A ... suffered a defeat of B
 game7 := (teamName):TeamB anyword* [constit cat=vgroup pa=[head?isa(cSuffer)]] anyword* (score):Score anyword* "defeat" anyword* preps anyword* (teamName):TeamA;
 
 

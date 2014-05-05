@@ -1,68 +1,68 @@
 <DOC>
-Juventus 1-0 Torino
+[C] Juventus 1-0 Torino
 <TEXT>
 Carlos Tevez's sweet strike saw Juventus claim a 1-0 victory against Torino in Sunday's Derby della Mole.
 </TEXT>
 </DOC>
 
 <DOC>
-Napoli 4-2 Lazio
+[C] Napoli 4-2 Lazio
 <TEXT>
 Napoli has recorded a 4-2 win over Lazio in Sunday afternoon's Serie A encounter at the Stadio San Paolo.
 </TEXT>
 </DOC>
 
 <DOC>
-Sevilla 3-3 Valencia
+[M] Sevilla 3-3 Valencia
 <TEXT>
 Sevilla scored in the fourth minute of stoppage-time to negate Valencia's comeback and reach the Europa League final in the most dramatic fashion Thursday with a 3-3 away goal victory on aggregate.
 </TEXT>
 </DOC>
 
 <DOC>
-Athletic Bilbao 3-1 Sevilla
+[C] Athletic Bilbao 3-1 Sevilla
 <TEXT>
 Athletic Bilbao are on the brink of qualifying for the Champions League playoffs following a 3-1 win over Sevilla on Sunday.
 </TEXT>
 </DOC>
 
 <DOC>
-Real Madrid 4-0 Real Sociedad
+[M] Real Madrid 4-0 Real Sociedad
 <TEXT>
 Real Madrid overcame a poor first-half showing to eventually run out 4-0 winners at Real Sociedad and keep pace at the top of La Liga.
 </TEXT>
 </DOC>
 
 <DOC>
-Barcelona 3-2 Villarreal
+[M] Barcelona 3-2 Villarreal
 <TEXT>
 Lionel Messi sealed a brilliant Barcelona comeback as it came from 2-0 down to beat Villarreal 3-2 on Sunday and keep its title hopes alive.
 </TEXT>
 </DOC>
 
 <DOC>
-Atletico Madrid 2-0 Celta
+[C] Atletico Madrid 2-0 Celta
 <TEXT>
 Two goals from David Villa saw Atletico Madrid run out to a 2-0 win over Celta and move to the top of La Liga.
 </TEXT>
 </DOC>
 
 <DOC>
-Barcelona 3-0 Celta
+[C] Barcelona 3-0 Celta
 <TEXT>
 Neymar bagged a double in Barcelona's simple 3-0 victory over Celta on Wednesday, but it was overshadowed by goalkeeper Victor Valdes' season-ending injury.
 </TEXT>
 </DOC>
 
 <DOC>
-Barcelona 1-0 Espanyol
+[C] Barcelona 1-0 Espanyol
 <TEXT>
 Lionel Messi converted a late penalty as Barcelona defeated city rivals Espanyol 1-0 to go back on top of La Liga.
 </TEXT>
 </DOC>
 
 <DOC>
-Villarreal 2-1 Espanyol
+[C] Villarreal 2-1 Espanyol
 <TEXT>
 Sergio Asenjo saved an injury-time penalty to earn Villarreal a crucial 2-1 win at Espanyol on Monday night.
 </TEXT>
