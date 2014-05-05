@@ -1,54 +1,54 @@
 <DOC>
-Paris Saint-Germain 1-0 Nice
+[C] Paris Saint Germain 1-0 Nice
 <TEXT>
-Paris Saint-Germain prepared for its Champions League showdown against Chelsea with a fortuitous 1-0 Ligue 1 win at Nice on Friday.
+Paris Saint Germain prepared for its Champions League showdown against Chelsea with a fortuitous 1-0 Ligue 1 win at Nice on Friday.
 </TEXT>
 </DOC>
 
 <DOC>
-Paris Saint-Germain 3-0 Bastia
+[C] Paris Saint Germain 3-0 Bastia
 <TEXT>
-Paris Saint-Germain coasted to a 3-0 victory over Bastia on Saturday to keep its Ligue 1 lead over second-placed Monaco looking healthy.
+Paris Saint Germain coasted to a 3-0 victory over Bastia on Saturday to keep its Ligue 1 lead over second-placed Monaco looking healthy.
 </TEXT>
 </DOC>
 
 <DOC>
-Paris Saint-Germain 3-0 Valenciennes
+[C] Paris Saint Germain 3-0 Valenciennes
 <TEXT>
-Paris Saint-Germain prepared perfectly for its Champions League last-16 first leg against Bayer Leverkusen as it defeated Valenciennes 3-0 at Parc des Princes to extend its lead on top of Ligue 1 to eight points.
+Paris Saint Germain prepared perfectly for its Champions League last-16 first leg against Bayer Leverkusen as it defeated Valenciennes 3-0 at Parc des Princes to extend its lead on top of Ligue 1 to eight points.
 </TEXT>
 </DOC>
 
 <DOC>
-Real Madrid 4-0 Osasuna
+[C] Real Madrid 4-0 Osasuna
 <TEXT>
 Cristiano Ronaldo scored two wonder goals to help Real Madrid to a 4-0 victory over Osasuna on Saturday and keep its Liga title hopes alive.
 </TEXT>
 </DOC>
 
 <DOC>
-Real Madrid 1-0 Malaga
+[M] Real Madrid 1-0 Malaga
 <TEXT>
-Real Madrid secured a gritty 1-0 over Malaga on Saturday thanks to a superb first-half finish from Cristiano Ronaldo.
+[M] Real Madrid secured a gritty 1-0 over Malaga on Saturday thanks to a superb first-half finish from Cristiano Ronaldo.
 </TEXT>
 </DOC>
 
 <DOC>
-Atletico 2-0 Elche
+[C] Atletico 2-0 Elche
 <TEXT>
 Miranda and Diego Costa were on target as Atletico Madrid beat plucky Elche 2-0 to go six points clear at the top of La Liga on Friday.
 </TEXT>
 </DOC>
 
 <DOC>
-Real Madrid 3-0 Elche
+[M] Real Madrid 3-0 Elche
 <TEXT>
 Real Madrid brushed off the absence of Cristiano Ronaldo to move top of La Liga after beating Elche 3-0 thanks to goals from Karim Benzema, Gareth Bale and Isco.
 </TEXT>
 </DOC>
 
 <DOC>
-Atletico Madrid 2-0 Getafe
+[C] Atletico Madrid 2-0 Getafe
 <TEXT>
 Atletico Madrid's 2-0 win over Getafe was marred by a serious looking injury to Diego Costa, as los Rojiblancos moved three points clear at the top of La Liga. 
 </TEXT>

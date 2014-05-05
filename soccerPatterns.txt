@@ -20,11 +20,6 @@ game9 := [constit cat=ngroup] ([constit cat=vgroup] | [constit cat=vgroup-pass])
 
 
 //7. A ... suffered a defeat of B
-//game7 := (teamName):TeamB anyword* [constit cat=vgroup pa=[head?isa(cLose)]] anyword* (
-//score):Score anyword* [constit cat=ngroup pa=[head?isa(cWin)]] anyword* preps anyword* (
-//teamName):TeamA;
-
-//7. A ... suffered a defeat of B
 game7 := (teamName):TeamB anyword* [constit cat=vgroup pa=[head?isa(cSuffer)]] anyword* (score):Score anyword* "defeat" anyword* preps anyword* (teamName):TeamA;
 
 
@@ -51,9 +46,9 @@ pos : = "'s" ;
 // Team Data
 teamName := "Toluca" | "America" | "Chivas" | "Monterrey" | "Pachuca" | "Tuzos" | "Barcelona" | "Villarreal" | "Sassuolo" | "Welshman" | "United" "States" | "Mexico" | "Athletic" "Bilbao" | "Rayo" "Vallecano" | uefaTeams | engTeams | uefaTeamNicknames | engTeamNicknames | espTeams | espTeamsShort | itaTeams | itaTeamsShort | gerTeams | gerTeamsShort | fraTeams ;
 
-uefaTeams := "Barcelona" | "Real" "Madrid" | "Real" "Sociedad" | "AC" "Milan" | "Juventus" | "Napoli" | "Borussia" "Dortmund" | "Bayer" "Leverkusen" | "Bayern" "Munich" | "Bayern" | "Schalke" "04" | "Ajax" "Amsterdam" | "Paris" "Saint-Germain" | "Marseille" | "Celtic" | "Arsenal" | "Manchester" "United" | "Chelsea" | "Manchester" "City" | "Galatasaray" | "Olympiakos" | "FC" "Porto" | "Anderlecht" | "Steaua" "Bucuresti" | "Shakhtar" "Donetsk" | "FC" "Copenhagen" | "FC" "Basel" | "Atletico" "Madrid" | "Austria" "Vienna" | "Benfica" | "CSKA" "Moscow" | "Zenit" "St" "Petersburg" | "Viktoria" "Plzen";
+uefaTeams := "Barcelona" | "Real" "Madrid" | "Real" "Sociedad" | "AC" "Milan" | "Juventus" | "Napoli" | "Borussia" "Dortmund" | "Bayer" "Leverkusen" | "Bayern" "Munich" | "Bayern" | "Schalke" "04" | "Ajax" "Amsterdam" | "Paris" "Saint" "Germain" | "Marseille" | "Celtic" | "Arsenal" | "Manchester" "United" | "Chelsea" | "Manchester" "City" | "Galatasaray" | "Olympiakos" | "FC" "Porto" | "Anderlecht" | "Steaua" "Bucuresti" | "Shakhtar" "Donetsk" | "FC" "Copenhagen" | "FC" "Basel" | "Atletico" "Madrid" | "Austria" "Vienna" | "Benfica" | "CSKA" "Moscow" | "Zenit" "St" "Petersburg" | "Viktoria" "Plzen";
 
-uefaTeamNicknames := "Barcelona" | "Real" "Madrid" | "Real" "Sociedad" | "AC" "Milan" | "Juventus" | "Napoli" | "Borussia" "Dortmund" | "Bayer" "Leverkusen" | "Bayern" "Munich" | "Schalke" "04" | "Ajax" "Amsterdam" | "Paris" "Saint-Germain" "" | "Marseille" | "Celtic" | "Gunners" | "Red" "Devils" | "Blues" | "City" | "Galatasaray" | "Olympiakos" | "FC" "Porto" | "Anderlecht" | "Steaua" "Bucuresti" | "Shakhtar" "Donetsk" | "FC" "Copenhagen" | "FC" "Basel" | "Atletico" "Madrid" | "Atletico" | "Austria" "Vienna" | "Benfica" | "CSKA" "Moscow" | "Zenit" "St" "Petersburg" | "Viktoria" "Plzen";
+uefaTeamNicknames := "Barcelona" | "Real" "Madrid" | "Real" "Sociedad" | "AC" "Milan" | "Juventus" | "Napoli" | "Borussia" "Dortmund" | "Bayer" "Leverkusen" | "Bayern" "Munich" | "Schalke" "04" | "Ajax" "Amsterdam" | "Paris" "Saint" "Germain" "" | "Marseille" | "Celtic" | "Gunners" | "Red" "Devils" | "Blues" | "City" | "Galatasaray" | "Olympiakos" | "FC" "Porto" | "Anderlecht" | "Steaua" "Bucuresti" | "Shakhtar" "Donetsk" | "FC" "Copenhagen" | "FC" "Basel" | "Atletico" "Madrid" | "Atletico" | "Austria" "Vienna" | "Benfica" | "CSKA" "Moscow" | "Zenit" "St" "Petersburg" | "Viktoria" "Plzen";
 
 engTeams := "Hull" "City" | "Swansea" "City" | "Swansea" | "Stoke" "City" | "Cardiff" "City" | "Arsenal" | "Manchester" "United" | "Newcastle" "United" | "Newcastle" | "Aston" "Villa" | "Chelsea" | "Liverpool" | "Sunderland" | "Tottenham" "Hotspur" | "Everton" | "Fulham" | "West" "Ham" "United" | "Southampton" | "Norwich" "City" | "Norwich" | "Manchester" "City" | "West" "Bromwich" "Albion" | "West" "Brom" | "Crystal" "Palace";
 
@@ -71,7 +66,7 @@ gerTeams := "Borussia" "Dortmund" | "Eintracht" "Frankfurt" | "SC" "Freiburg" | 
 
 gerTeamsShort := "Stuttgart" | "Frankfurt" | "Freiburg" | "Bayern" | "Schalke" | "Wolfsburg" | "Eintracht" | "Hoffenheim" | "Hannover" | "Hamburg";
 
-fraTeams := "Bordeaux" | "Paris" "Saint-Germain" | "Nantes" | "Lille" | "Lyon" | "Stade" "Rennes" | "Guingamp" | "Bastia" | "AS" "Monaco" | "Marseille" | "St" "Etienne" | "Toulouse" | "Sochaux" | "Lorient" | "Montpellier" | "Nice" | "AC" "Ajaccio" | "Stade" "de" "Reims" | "Valenciennes" | "Evian" "Thonon" "Gaillard";
+fraTeams := "Bordeaux" | "Paris" "Saint" "Germain" | "Nantes" | "Lille" | "Lyon" | "Stade" "Rennes" | "Guingamp" | "Bastia" | "AS" "Monaco" | "Marseille" | "St" "Etienne" | "Toulouse" | "Sochaux" | "Lorient" | "Montpellier" | "Nice" | "AC" "Ajaccio" | "Stade" "de" "Reims" | "Valenciennes" | "Evian" "Thonon" "Gaillard";
 
 //fraTeamsShort :=;
 

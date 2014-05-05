@@ -1,50 +1,143 @@
-[F] Atletico Madrid's La Liga title hopes suffered a huge blow Sunday as the club slipped to a shock 2-0 defeat at Levante.
+<DOC>
+[W] Levante 2-0 Atletico Madrid
+<TEXT>
+Atletico Madrid's La Liga title hopes suffered a huge blow Sunday as the club slipped to a shock 2-0 defeat at Levante.
+</TEXT>
+</DOC>
 
-
+<DOC>
+[C] Real Madrid 2-2 Valencia
+<TEXT>
 Real Madrid failed to capitalize on slips by its rivals as Valencia applied further drama to La Liga’s title race with a 2-2 draw in the Santiago Bernabeu.
+</TEXT>
+</DOC>
 
+<DOC>
+[M] AC Milan 1-0 Inter Milan
+<TEXT>
+AC Milan returned to the race for Europe by edging city rivals Inter Milan 1-0 in a dismal Derby della Madonnina encounter at the San Siro.
+</TEXT>
+</DOC>
 
-[F] AC Milan returned to the race for Europe by edging city rivals Inter Milan 1-0 in a dismal Derby della Madonnina encounter at the San Siro.
+<DOC>
+[M] Roma 4-1 Catania
+<TEXT>
+With second-place Roma losing 4-1 at Catania, Juventus' eight-point lead became insurmountable because Roma only has two matches remaining.
+</TEXT>
+</DOC>
 
-
-[F] With second-place Roma losing 4-1 at Catania, Juventus' eight-point lead became insurmountable because Roma only has two matches remaining.
-
+<DOC>
+[W] Roma 2-0 AC Milan
+<TEXT>
 [F] Refusing to concede the Serie A title, Roma produced a convincing 2-0 win over AC Milan on Friday that will keep Juventus from celebrating for at least another week.
+</TEXT>
+</DOC>
 
+<DOC>
+[C] Juventus 1-0 Bologna
+<TEXT>
 Juventus got one hand on a third straight Serie A crown thanks to a 1-0 win over relegation-threatened Bologna on Saturday evening.
+</TEXT>
+</DOC>
 
+<DOC>
+[C] Napoli 1-1 Udinese
+<TEXT>
 Napoli's hopes of catching Roma in second place effectively ended by a 1-1 draw at Udinese on Saturday.
+</TEXT>
+</DOC>
 
+<DOC>
+[C] AC Milan 3-0 Livorno
+<TEXT>
 Mario Balotelli set a personal record with his 14th goal of the Serie A season and set up another score as AC Milan beat visiting Livorno 3-0 on Saturday for its fifth straight win.
+</TEXT>
+</DOC>
 
+<DOC>
+[M] Juventus 2-0 Udinese
+<TEXT>
+Juventus responded to Roma's victory over Atalanta by overcoming Udinese 2-0 at the Friuli stadium to restore their eight-point lead at the Serie A summit on Monday evening.
+</TEXT>
+</DOC>
 
-[F] Juventus responded to Roma's victory over Atalanta by overcoming Udinese 2-0 at the Friuli stadium to restore their eight-point lead at the Serie A summit on Monday evening.
+<DOC>
+[W] Bayern Munich 5-2 Werder Bremen
+<TEXT>
+Bayern Munich sent a warning Real Madrid's way with a 5-2 win over Werder Bremen at the Allianz Arena on Saturday.
+</TEXT>
+</DOC>
 
+<DOC>
+[C] Stuttgart 0-0 Hannover
+<TEXT>
+Stuttgart boosted its hopes of avoiding relegation from the Bundesliga by fighting to a 0-0 draw at Hannover on Friday.
+</TEXT>
+</DOC>
 
-[F] Bayern Munich sent a warning Real Madrid's way with a 5-2 win over Werder Bremen at the Allianz Arena on Saturday.
+<DOC>
+[C] Stuttgart 3-1 Schalke
+<TEXT>
+Stuttgart picked up a vital three points in their battle against relegation thanks to a 3-1 win over Schalke.
+</TEXT>
+</DOC>
 
-
-[F] Stuttgart boosted its hopes of avoiding relegation from the Bundesliga by fighting to a 0-0 draw at Hannover on Friday.
-
-[F] Stuttgart picked up a vital three points in their battle against relegation thanks to a 3-1 win over Schalke.
-
+<DOC>
+[C] Real Madrid 2-2 Valencia
+<TEXT>
 Real Madrid failed to capitalize on slips by its rivals as Valencia applied further drama to La Liga’s title race with a 2-2 draw in the Santiago Bernabeu.
+</TEXT>
+</DOC>
 
-[F] Manchester City kept control of the Premier League title race with a 3-2 win Saturday at Everton.
+<DOC>
+[C] Manchester City 3-2 Everton
+<TEXT>
+Manchester City kept control of the Premier League title race with a 3-2 win Saturday at Everton.
+</TEXT>
+</DOC>
 
-Barcelona conceded a second goal to Getafe forward Angel Lafita in injury time to stumble to a deflating 2-2 draw at home on Saturday。
+<DOC>
+[C] Barcelona 2-2 Getafe
+<TEXT>
+Barcelona conceded a second goal to Getafe forward Angel Lafita in injury time to stumble to a deflating 2-2 draw at home on Saturday.
+</TEXT>
+</DOC>
 
+<DOC>
+[C] Napoli 3-1 Fiorentina
+<TEXT>
 Napoli beat Fiorentina 3-1 for the trophy Saturday.
+</TEXT>
+</DOC>
 
-[F] Manchester City hurdled its last big obstacle route to the English Premier League title by winning 3-2 at Everton.
+<DOC>
+[M] Manchester City 3-2 Everton
+<TEXT>
+Manchester City hurdled its last big obstacle route to the English Premier League title by winning 3-2 at Everton.
+</TEXT>
+</DOC>
 
-[F] Mario Götze inspired Bayern Munich to a 4-1 win at Hamburg, which was left relying on other results to stay in the Bundesliga’s relegation playoff place.
+<DOC>
+[C] Bayern Munich 4-1 Hamburg
+<TEXT>
+Mario Götze inspired Bayern Munich to a 4-1 win at Hamburg, which was left relying on other results to stay in the Bundesliga’s relegation playoff place.
+</TEXT>
+</DOC>
 
+<DOC>
+[C] Arsenal 1-0 West Bromwich Albion
+<TEXT>
 Arsenal celebrated another year in Europe’s top-flight by easing to a 1-0 win over West Bromwich Albion at the Emirates behind a goal from Olivier Giroud. 
+</TEXT>
+</DOC>
 
+<DOC>
+[C] Sunderland 1-0 Manchester United
+<TEXT>
 Sunderland stunned Manchester United 1-0 at Old Trafford to take a massive step closer to Premier League survival. 
-
-FOX  CBC 
+</TEXT>
+</DOC>
+ 
 
 
 

@@ -1,69 +1,69 @@
 <DOC>
-Paris Saint-Germain 1-1 Sochaux
+[M] Paris Saint Germain 1-1 Sochaux
 <TEXT>
-A Thiago Silva own goal postponed Paris Saint-Germain's Ligue 1 title party for another week as it was held 1-1 by Sochaux.
+A Thiago Silva own goal postponed Paris Saint Germain's Ligue 1 title party for another week as it was held 1-1 by Sochaux.
 </TEXT>
 </DOC>
 
 <DOC>
-Schalke 2-0 Eintracht Frankfurt
+[C] Schalke 2-0 Eintracht Frankfurt
 <TEXT>
 Schalke kept itself in the running for second place in the Bundesliga with a comfortable 2-0 win over Eintracht Frankfurt on Friday.
 </TEXT>
 </DOC>
 
 <DOC>
-Borussia Dortmund 0-0 Schalke
+[C] Borussia Dortmund 0-0 Schalke
 <TEXT>
 Borussia Dortmund missed the chance to strengthen its grip on second place in the Bundesliga after being held to a 0-0 draw at home to third-place Schalke.
 </TEXT>
 </DOC>
 
 <DOC>
-Borussia Dortmund 4-0 Eintracht Frankfurt
+[C] Borussia Dortmund 4-0 Eintracht Frankfurt
 <TEXT>
 Borussia Dortmund cemented their top-three place in the Bundesliga with a comfortable 4-0 success over Eintracht Frankfurt.
 </TEXT>
 </DOC>
 
 <DOC>
-Bayern Munich 2-0 Mainz
+[C] Bayern Munich 2-0 Mainz
 <TEXT>
 Bayern Munich struck two late goals to edge ever closer to the Bundesliga title with a hard-fought 2-0 win at Mainz.
 </TEXT>
 </DOC>
 
 <DOC>
-Borussia Dortmund 2-0 Wolfsburg
+[C] Borussia Dortmund 2-0 Wolfsburg
 <TEXT>
 Robert Lewandowski scored his 100th goal for Borussia Dortmund fired his side into the DFB Pokal final with a 2-0 win over Wolfsburg on Tuesday.
 </TEXT>
 </DOC>
 
 <DOC>
-Borussia Dortmund 2-2 Bayer Leverkusen
+[C] Borussia Dortmund 2-2 Bayer Leverkusen
 <TEXT>
 Borussia Dortmund were held to a 2-2 draw at Bayer Leverkusen in a thrilling end-of-season contest on Saturday.
 </TEXT>
 </DOC>
 
 <DOC>
-Bayern Munich 3-3 Bayer Hoffenheim
+[C] Bayern Munich 3-3 Bayer Hoffenheim
 <TEXT>
 Bayern Munich's winning run in the Bundesliga came to an end on Saturday afternoon, as the newly-crowned champions were held to a 3-3 draw at home to Hoffenheim.
 </TEXT>
 </DOC>
 
 <DOC>
-Bayern Munich 5-2 Werder Bremen
+[M] Bayern Munich 5-2 Werder Bremen
 <TEXT>
 Claudio Pizarro struck twice as Bayern Munich produced a sensational second-half display to defeat Werder Bremen 5-2 on Saturday afternoon.
 </TEXT>
 </DOC>
 
 <DOC>
-Paris Saint-Germain 2-1 Nantes
+[C] Paris Saint Germain 2-1 Nantes
 <TEXT>
-Zlatan Ibrahimovic netted a last-gasp winner as Paris Saint-Germain progressed to the Coupe de la Ligue final with a 2-1 win over Nantes on Tuesday.
+Zlatan Ibrahimovic netted a last-gasp winner as Paris Saint Germain progressed to the Coupe de la Ligue final with a 2-1 win over Nantes on Tuesday.
 </TEXT>
 </DOC>
