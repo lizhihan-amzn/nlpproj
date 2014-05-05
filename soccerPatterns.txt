@@ -32,7 +32,7 @@ game7 := (teamName):TeamB anyword* [constit cat=vgroup pa=[head?isa(cSuffer)]] a
 game5 := (teamName):TeamA pos anyword* (score):Score anyword* ([constit cat=ngroup pa=[head?isa(cWin)]] | [constit cat=vgroup pa=[head?isa(cWin)]]) anyword* winPreps anyword* (teamName):TeamB;
 
 //4. A ... lose X-X to B
-game4 := (teamName):TeamB anyword* (("losing" | "lose" | "loss" | "lost" | "defeat") (score):Score | ((score):Score ("losing" | "lose" | "loss" | "lost"| "defeat"))) anyword* losePreps anyword* (teamName):TeamA;
+game4 := (teamName):TeamB anyword* (("losing" | "lose" | "loss" | "lost" | "defeat") (score):Score | ((score):Score ("losing" | "lose" | "loss" | "lost"| "defeat"))) anyword* preps anyword* (teamName):TeamA;
 
 
 //6. A ...ended X-X in favor of B
