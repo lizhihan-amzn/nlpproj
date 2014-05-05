@@ -1,0 +1,36 @@
+
+<DOC>
+United States 2-2 Mexico
+<TEXT>
+A bogus offside call robbed the United States of a morale-boosting victory over its fiercest rival Mexico on Wednesday night, leaving head coach Jurgen Klinsmann fuming over the contentious disallowed goal in a 2-2 draw.
+</TEXT>
+</DOC>
+
+<DOC>
+Atlectico 3-1 Chelsea
+<TEXT>
+Costa's Atletico progressed to the European final with a 3-1 second leg and aggregate victory over Jose Mourinho's Blues, with the star striker putting the La Liga leader ahead with a penalty on the hour mark.
+</TEXT>
+</DOC>
+
+
+<DOC>
+Athletic Bilbao 3-0 Rayo Vallecano
+<TEXT>
+Athletic Bilbao sealed its place in next season's Champions League with a comfortable 3-0 win at Rayo Vallecano on Friday.
+</TEXT>
+</DOC>
+
+<DOC>
+Chelsea 2-0 Liverpool #Just slow
+<TEXT>
+Twenty-four hours on from Chelsea’s headline-grabbing 2-0 defeat of Liverpool at Anfield and the vitriolic diatribes lambasting the manner in which Jose Mourinho achieved victory continue to smother every form of media to the point of boredom.
+</TEXT>
+</DOC>
+
+<DOC>
+? Real Madrid 4-0 Bayern Munich
+<TEXT>
+Bayern's chances of retaining the UEFA Champions League title vanished on Tuesday, as Real produced a stunning performance to post a 4-0 win at the Allianz Arena that gave the club a 5-0 aggregate victory in the semifinal tie.
+</TEXT>
+</DOC>
