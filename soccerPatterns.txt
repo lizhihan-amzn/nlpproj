@@ -4,9 +4,9 @@
 
 pattern set game;
 
-game := game1 | game7 | game2 | game3 | game4 | game5 | game6 | game9;
+game := game1 | game7 | game2 | game3 | game9 | game5 | game6 | game4;
 
-//game := game2 | game5 | game9 | game4 | game6;
+//game := game9;
 
 //1. A beat B ... X-X.
 game1 := (teamName):TeamA anyword* [constit cat=vgroup pa=[head?isa(cWin)]] anyword* (teamName):TeamB anyword* (score):Score;
@@ -26,7 +26,7 @@ game3 := (teamName):TeamA anyword* (teamName):TeamB anyword* ([constit cat=vgrou
 //game8 := (teamName):TeamA anyword* (teamName):TeamB anyword* (score):Score "draw";
 
 //4. A ... lose X-X to B
-game4 := (teamName):TeamB anyword* (("losing" | "lose" | "loss") (score):Score | ((score):Score ("losing" | "lose" | "loss"))) anyword* losePreps anyword* (teamName):TeamA;
+game4 := (teamName):TeamB anyword* (("losing" | "lose" | "loss" | "lost" | "defeat") (score):Score | ((score):Score ("losing" | "lose" | "loss" | "lost"| "defeat"))) anyword* losePreps anyword* (teamName):TeamA;
 
 //5. A's X-X win/defeat of/over B
 game5 := (teamName):TeamA pos anyword* (score):Score anyword* ([constit cat=ngroup pa=[head?isa(cWin)]] | [constit cat=vgroup pa=[head?isa(cWin)]]) anyword* winPreps anyword* (teamName):TeamB;
@@ -35,7 +35,7 @@ game5 := (teamName):TeamA pos anyword* (score):Score anyword* ([constit cat=ngro
 game6 := (teamName):TeamB anyword* [constit cat=vgroup] anyword* (score):Score anyword* [constit cat=ngroup pa=[head?isa(cLose)]]? "in" "favor" "of" "the"? (teamName):TeamA;
 
 //9. A's X-X defeat/loss to B
-game9 := (teamName):TeamB pos anyword* (score):Score anyword* ([constit cat=ngroup pa=[head?isa(cLose)]] | "defeat") anyword* losePreps "the"? (teamName):TeamA;
+game9 := (teamName):TeamB pos anyword* (score):Score anyword* ([constit cat=ngroup pa=[head?isa(cLose)]] | [constit cat=ngroup pa=[head=defeat]]) anyword* losePreps "the"? (teamName):TeamA;
 
 
 
