@@ -16,7 +16,7 @@ game7 := (teamName):TeamB anyword* [constit cat=vgroup pa=[head?isa(cLose)]] any
 
 //2. A ... with/in a X-X win over/at B 
 
-game2 := (teamName):TeamA [constit cat=vgroup] anyword* ("with" | "by" | "in" | "through")? anyword* (score):Score  anyword* [constit cat=ngroup pa=[head?isa(cWin)]] anyword* winPreps anyword* (teamName):TeamB;
+game2 := (teamName):TeamA anyword* ([constit cat=vgroup] | [constit cat=vgroup-pass]) anyword* ("with" | "by" | "in" | "through")? anyword* (score):Score  anyword* [constit cat=ngroup pa=[head?isa(cWin)]] anyword* winPreps anyword* (teamName):TeamB;
 
 
 //3. A ... B ... draw X-X/ to X-X draw.
@@ -78,7 +78,7 @@ itaTeamsShort := "Milan" | "Roma" | "Inter" | "Chievo";
 
 gerTeams := "Borussia" "Dortmund" | "Eintracht" "Frankfurt" | "SC" "Freiburg" | "Hamburg" "SV" | "Hertha" "Berlin" | "Bayer" "Leverkusen" | "Bayern" "Munich" | "Schalke" "04" | "VfB" "Stuttgart" | "Werder" "Bremen" | "VfL" "Wolfsburg" | "Borussia" "Monchengladbach" | "Nurnberg" | "Hannover" "96" | "Mainz" | "TSV" "Eintracht" "Braunschweig" | "FC" "Augsburg" | "TSG" "Hoffenheim";
 
-gerTeamsShort := "Dortmund" | "Frankfurt" | "Freiburg" | "Bayern" | "Schalke" | "Wolfsburg" | "Eintracht" | "Hoffenheim";
+gerTeamsShort := "Frankfurt" | "Freiburg" | "Bayern" | "Schalke" | "Wolfsburg" | "Eintracht" | "Hoffenheim";
 
 fraTeams := "Bordeaux" | "Paris" "Saint-Germain" | "Nantes" | "Lille" | "Lyon" | "Stade" "Rennes" | "Guingamp" | "Bastia" | "AS" "Monaco" | "Marseille" | "St" "Etienne" | "Toulouse" | "Sochaux" | "Lorient" | "Montpellier" | "Nice" | "AC" "Ajaccio" | "Stade" "de" "Reims" | "Valenciennes" | "Evian" "Thonon" "Gaillard";
 

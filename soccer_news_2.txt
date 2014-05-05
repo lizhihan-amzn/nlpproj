@@ -174,14 +174,14 @@ Real Madrid overcame a poor first-half showing to eventually run out 4-0 win at 
 </DOC>
 
 <DOC>
-Barcelona 3-2 Villarreal
+[N] Barcelona 3-2 Villarreal
 <TEXT>
 Lionel Messi sealed a brilliant Barcelona comeback as it came from 2-0 down to beat Villarreal 3-2 on Sunday and keep its title hopes alive.
 </TEXT>
 </DOC>
 
 <DOC>
-Atletico Madrid 2-0 Celta
+[A] Atletico Madrid 2-0 Celta
 <TEXT>
 Two goals from David Villa saw Atletico Madrid run out to a 2-0 win over Celta and move to the top of La Liga.
 </TEXT>
@@ -202,14 +202,14 @@ Lionel Messi converted a late penalty as Barcelona defeated city rivals Espanyol
 </DOC>
 
 <DOC>
-Villarreal 2-1 Espanyol
+[A] Villarreal 2-1 Espanyol
 <TEXT>
 Sergio Asenjo saved an injury-time penalty to earn Villarreal a crucial 2-1 win at Espanyol on Monday night.
 </TEXT>
 </DOC>
 
 <DOC>
-Paris Saint-Germain 1-1 Sochaux
+[A] Paris Saint-Germain 1-1 Sochaux
 <TEXT>
 A Thiago Silva own goal postponed Paris Saint-Germain's Ligue 1 title party for another week as it was held 1-1 by Sochaux.
 </TEXT>
@@ -223,7 +223,7 @@ Schalke kept itself in the running for second place in the Bundesliga with a com
 </DOC>
 
 <DOC>
-Borussia Dortmund 0-0 Schalke
+[A] Borussia Dortmund 0-0 Schalke
 <TEXT>
 Borussia Dortmund missed the chance to strengthen its grip on second place in the Bundesliga after being held to a 0-0 draw at home to third-place Schalke.
 </TEXT>
@@ -251,35 +251,35 @@ Robert Lewandowski scored his 100th goal for Borussia Dortmund fired his side in
 </DOC>
 
 <DOC>
-Borussia Dortmund 2-2 Bayer Leverkusen
+[A] Borussia Dortmund 2-2 Bayer Leverkusen
 <TEXT>
 Borussia Dortmund were held to a 2-2 draw at Bayer Leverkusen in a thrilling end-of-season contest on Saturday.
 </TEXT>
 </DOC>
 
 <DOC>
-Bayern Munich 3-3 Bayer Hoffenheim
+[A] Bayern Munich 3-3 Bayer Hoffenheim
 <TEXT>
 Bayern Munich's winning run in the Bundesliga came to an end on Saturday afternoon, as the newly-crowned champions were held to a 3-3 draw at home to Hoffenheim.
 </TEXT>
 </DOC>
 
 <DOC>
-Bayern Munich 5-2 Werder Bremen
+[N] Bayern Munich 5-2 Werder Bremen
 <TEXT>
 Claudio Pizarro struck twice as Bayern Munich produced a sensational second-half display to defeat Werder Bremen 5-2 on Saturday afternoon.
 </TEXT>
 </DOC>
 
 <DOC>
-Paris Saint-Germain 2-1 Nantes
+[N] Paris Saint-Germain 2-1 Nantes
 <TEXT>
 Zlatan Ibrahimovic netted a last-gasp winner as Paris Saint-Germain progressed to the Coupe de la Ligue final with a 2-1 win over Nantes on Tuesday.
 </TEXT>
 </DOC>
 
 <DOC>
-Paris Saint-Germain 1-0 Nice
+[N] Paris Saint-Germain 1-0 Nice
 <TEXT>
 Paris Saint-Germain prepared for its Champions League showdown against Chelsea with a fortuitous 1-0 Ligue 1 win at Nice on Friday.
 </TEXT>
@@ -293,23 +293,17 @@ Paris Saint-Germain coasted to a 3-0 victory over Bastia on Saturday to keep its
 </DOC>
 
 <DOC>
-Paris Saint-Germain 3-0 Valenciennes
+[N] Paris Saint-Germain 3-0 Valenciennes
 <TEXT>
 Paris Saint-Germain prepared perfectly for its Champions League last-16 first leg against Bayer Leverkusen as it defeated Valenciennes 3-0 at Parc des Princes to extend its lead on top of Ligue 1 to eight points.
 </TEXT>
 </DOC>
 
-<DOC>
-Real Madrid 4-0 Osasuna
-<TEXT>
-Cristiano Ronaldo scored two wonder goals to help Real Madrid to a 4-0 victory over Osasuna on Saturday and keep its Liga title hopes alive.
-</TEXT>
-</DOC>
 
 <DOC>
 Real Madrid 1-0 Malaga
 <TEXT>
-Real Madrid secured a gritty 1-0 over Malaga on Saturday thanks to a superb first-half finish from Cristiano Ronaldo.
+Real Madrid secured a gritty 1-0 win over Malaga on Saturday thanks to a superb first-half finish from Cristiano Ronaldo.
 </TEXT>
 </DOC>
 
@@ -323,7 +317,7 @@ Miranda and Diego Costa were on target as Atletico Madrid beat plucky Elche 2-0 
 <DOC>
 Real Madrid 3-0 Elche
 <TEXT>
-Real Madrid brushed off the absence of Cristiano Ronaldo to move top of La Liga after beating Elche 3-0 thanks to goals from Karim Benzema, Gareth Bale and Isco.
+Real Madrid brushed off the absence of Cristiano Ronaldo to move top of La Liga after it beat Elche 3-0 thanks to goals from Karim Benzema, Gareth Bale and Isco.
 </TEXT>
 </DOC>
 
