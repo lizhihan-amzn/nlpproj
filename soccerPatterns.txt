@@ -6,14 +6,12 @@ pattern set game;
 
 game := game1 | game7 | game2 | game3 | game8 | game5 | game6 | game4 | game9;
 
-//game := game9;
-
 //1. A beat B ... X-X.
 game1 := (teamName):TeamA anyword* [constit cat=vgroup pa=[head?isa(cWin)]] anyword* (teamName):TeamB anyword* (score):Score;
 
 //2. A ... with/in a X-X win over/at B 
 
-game2 := (teamName):TeamA anyword* ([constit cat=vgroup] | [constit cat=vgroup-pass]) anyword* ("with" | "by" | "in" | "through" | "to")? anyword* ((score):Score) anyword* ([constit cat=ngroup pa=[head?isa(cWin)]] | [constit cat=vgroup pa=[head?isa(cWin)]]) anyword* winPreps anyword* (teamName):TeamB;
+game2 := (teamName):TeamA anyword* ([constit cat=vgroup] | [constit cat=vgroup-pass]) anyword* ( (("with" | "by" | "in" | "through" | "to") anyword* ((score):Score) anyword* ([constit cat=ngroup pa=[head?isa(cWin)]] | [constit cat=vgroup pa=[head?isa(cWin)]]) anyword* winPreps anyword* (teamName):TeamB) | ((score):Score ([constit cat=ngroup pa=[head?isa(cWin)]] | [constit cat=vgroup pa=[head?isa(cWin)]]) winPreps (teamName):TeamB));
 
 //9. ... A to a X-X win at B
 game9 := [constit cat=ngroup] ([constit cat=vgroup] | [constit cat=vgroup-pass]) anyword* ("with" | "by" | "in" | "through" | "to")? (teamName):TeamA anyword* ((score):Score) anyword* ([constit cat=ngroup pa=[head?isa(cWin)]] | [constit cat=vgroup pa=[head?isa(cWin)]]) anyword* winPreps anyword* (teamName):TeamB;

@@ -27,9 +27,9 @@ With second-place Roma losing 4-1 at Catania, Juventus' eight-point lead became 
 </DOC>
 
 <DOC>
-[W] Roma 2-0 AC Milan
+[C] Roma 2-0 AC Milan
 <TEXT>
-[F] Refusing to concede the Serie A title, Roma produced a convincing 2-0 win over AC Milan on Friday that will keep Juventus from celebrating for at least another week.
+Refusing to concede the Serie A title, Roma produced a convincing 2-0 win over AC Milan on Friday that will keep Juventus from celebrating for at least another week.
 </TEXT>
 </DOC>
 
