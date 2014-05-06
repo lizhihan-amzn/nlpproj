@@ -4,9 +4,7 @@
 
 pattern set game;
 
-//game := game1 | game7 | game2 | game3 | game8 | game5 | game6 | game4 | game9;
-
-game := game9;
+game := game1 | game7 | game2 | game3 | game8 | game5 | game6 | game4 | game9;
 
 //1. A beat B ... X-X.
 game1 := (teamName):TeamA anyword* [constit cat=vgroup pa=[head?isa(cWin)]] anyword* (teamName):TeamB anyword* (score):Score;
